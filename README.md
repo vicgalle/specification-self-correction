@@ -75,7 +75,7 @@ This will:
 - Apply SSC process to detect and correct reward hacking
 - Save results to `results/results_{model_name}_rewardhacks.json`
 
-You can have a look at a sample with the structure in [results/results_openai_gpt-4.1-mini_rewardhacks.json](results/results_openai_gpt-4.1-mini_rewardhacks.json)
+You can have a look at a sample with the structure in this example with just one generation: [results/results_openai_gpt-4.1-mini_rewardhacks.json](results/results_openai_gpt-4.1-mini_rewardhacks.json). See the rest of the directory [results](https://github.com/vicgalle/specification-self-correction/tree/main/results) for the paper results with the other models.
 
 > Note: the scores from the LLM judge in the previous files are in a scale from 0 to 100. Since for enough powerful models these scores are typically > 90, the **Quality Score** used in Table 1 refers to the fraction of responses where the model's score is above 99, to make it a more discriminative metric.
 
