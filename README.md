@@ -20,7 +20,7 @@ The SSC process works in four steps:
 
 This repository implements the experiments from the first "Experiments" section of the paper, covering two distinct domains:
 
-### 1. Creative Writing Tasks (Section 4.1)
+### 1. Creative Writing Tasks (Section 3.1)
 
 Tests reward hacking behavior in creative writing scenarios using sophisticated rubrics with injected "trap words."
 
