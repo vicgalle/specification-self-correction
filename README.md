@@ -85,11 +85,11 @@ If you use this code or findings in your research, please cite:
 
 ```bibtex
 @inproceedings{
-gallego2025specification,
-title={Specification Self-Correction: Mitigating In-Context Reward Hacking Through Test-Time Refinement},
-author={V{\'i}ctor Gallego},
-booktitle={The 1st Workshop on Test-time Scaling and Reasoning Models},
-year={2025},
-url={https://openreview.net/forum?id=UU9KCA0sTH}
+    gallego2025specification,
+    title={Specification Self-Correction: Mitigating In-Context Reward Hacking Through Test-Time Refinement},
+    author={V{\'i}ctor Gallego},
+    booktitle={The 1st Workshop on Test-time Scaling and Reasoning Models},
+    year={2025},
+    url={https://openreview.net/forum?id=UU9KCA0sTH}
 }
 ```
