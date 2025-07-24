@@ -1,6 +1,6 @@
 # Specification Self-Correction (SSC): Mitigating In-Context Reward Hacking
 
-This repository contains the experimental code for the paper "Specification Self-Correction: Mitigating In-Context Reward Hacking Through Test-Time Refinement".
+This repository contains the experimental code for the paper "Specification Self-Correction: Mitigating In-Context Reward Hacking Through Test-Time Refinement", accepted to the [Workshop on Test-time Scaling and Reasoning Models at COLM 2025](https://scalr-workshop.github.io).
 
 > tl;dr: SSC enables LLMs to identify and fix flaws in their guiding specifications by first exploiting them, critiquing their gamed output, and then revising the specification itself, thereby significantly reducing in-context reward hacking
 
